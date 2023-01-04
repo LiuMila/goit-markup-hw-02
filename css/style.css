@@ -27,13 +27,11 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    
-        
-            
+               
 }
 .span{
     color:var(--span-color) ;}
-    
+
     .link{text-decoration: none;
         list-style: none;}
     
