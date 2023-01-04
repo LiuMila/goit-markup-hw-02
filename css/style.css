@@ -76,7 +76,10 @@
     }
     .section-item {list-style: none;
     }
-    .section-button {font-weight: 500;
+    .section-button {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         display: flex;
@@ -124,7 +127,7 @@
         color:var(--bg-color);}
          
     .span{color:var(--span-color) ;}
-    
+
     .footer-text {font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -194,7 +197,10 @@
     }
 
     
-    .hero-button {font-weight: 500;
+    .hero-button {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 display: flex;
